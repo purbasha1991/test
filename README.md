@@ -17,4 +17,6 @@
      DB_DATABASE=testing
      DB_USERNAME=Your Database Username
      DB_PASSWORD="Your Database Password"
+     
+     JWT_SECRET=YTCzV4Roj2vfSjtcJ7JfVEIi1IM4KF9sRSIy50QPGZaclN3kxcrrE4ut0NLHp8qa
   -> Import the given test.sql file in MySql    
